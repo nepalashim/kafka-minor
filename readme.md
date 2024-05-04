@@ -1,5 +1,7 @@
 kafka message broking minor project by Ashim
 
+I have setup / installed kakfka using docker compose:
+
 open terminal:
 cd .\kafka\
 docker-compose up -d
